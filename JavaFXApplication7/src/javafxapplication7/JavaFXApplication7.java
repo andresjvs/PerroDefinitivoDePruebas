@@ -31,6 +31,8 @@ public class JavaFXApplication7 extends Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        System.out.println("el perro definitivo sadjasdfgh");
         launch(args);
     }
     
